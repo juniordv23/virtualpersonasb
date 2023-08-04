@@ -1,0 +1,4 @@
+User-agent: Unsolobot # Donde Unsolobot es el nombre del bot al que le queremos permitir el acceso
+Disallow: 
+User-agent: *
+Disallow: /
